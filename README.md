@@ -10,7 +10,6 @@ Built using **React**, **Vite**, and **Tailwind CSS**, leveraging the **Open Lib
 
 🔗 CodeSandbox : [https://codesandbox.io/p/github/rohit-raj7/BookFinder/main?import=true&embed=1](https://codesandbox.io/p/github/rohit-raj7/BookFinder/main?import=true&embed=1)
 
-🔗 [https://your-deploy-link.vercel.app](https://your-deploy-link.vercel.app)
 
 🔗 chatGPT: [https://chatgpt.com/share/68bfcb40-2998-8003-b951-528762add201](https://chatgpt.com/share/68bfcb40-2998-8003-b951-528762add201)
 
