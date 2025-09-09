@@ -33,20 +33,6 @@ Built using **React**, **Vite**, and **Tailwind CSS**, leveraging the **Open Lib
 - Open Library API: [https://openlibrary.org/dev/docs/api/search](https://openlibrary.org/dev/docs/api/search)
 - Axios
 
----
-src/
-├─ bookFinder/
-│  ├─ pages/
-│  │    └─ Home.jsx
-│  ├─ components/
-│  │    ├─ BookCard.jsx
-│  │    └─ SearchBar.jsx
-├─ App.jsx
-└─ index.js
-
-
----
-
 2️⃣ Install Dependencies
 cd clint
 npm install
