@@ -34,18 +34,17 @@ Built using **React**, **Vite**, and **Tailwind CSS**, leveraging the **Open Lib
 - Axios
 
 ---
-
-## 🗂️ Project Structure
 src/
 ├─ bookFinder/
-| |   ├─ pages/
-| |        └─ Home.jsx
-│ ├─ BookCard.jsx
-│ ├─ SearchBar.jsx
-| 
+│  ├─ pages/
+│  │    └─ Home.jsx
+│  ├─ components/
+│  │    ├─ BookCard.jsx
+│  │    └─ SearchBar.jsx
 ├─ App.jsx
 └─ index.js
 
+---
 
 2️⃣ Install Dependencies
 cd clint
